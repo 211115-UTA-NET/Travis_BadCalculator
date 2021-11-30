@@ -1,0 +1,15 @@
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.csproj.AssemblyReference.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.AssemblyInfoInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.AssemblyInfo.cs
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\Project0.exe
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\Project0.deps.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\Project0.runtimeconfig.json
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\Project0.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\ref\Project0.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\bin\Debug\net6.0\Project0.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\ref\Project0.dll
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.pdb
+C:\Users\Owner\Revature\TravisB\C#\Project0\Travis_Calculator\obj\Debug\net6.0\Project0.genruntimeconfig.cache

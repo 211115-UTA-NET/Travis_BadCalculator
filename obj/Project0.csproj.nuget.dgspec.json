@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Project0.csproj": {}
+    "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Travis_Calculator\\Project0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Project0.csproj": {
+    "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Travis_Calculator\\Project0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Project0.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Travis_Calculator\\Project0.csproj",
         "projectName": "Project0",
-        "projectPath": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Project0.csproj",
+        "projectPath": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Travis_Calculator\\Project0.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Revature\\TravisB\\C#\\Project0\\Travis_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config"
